@@ -1,2 +1,3 @@
 # Calculator
 As a student , in computer science, this is my own Python project, which I created a Calculator ..
+If you would like to test my own personal projet and take an idea about my skills , just open this file in VS code / Thonny any other (IDE) ...Just install the necessary packages to make this file work then U can see my work ....Thanks...
